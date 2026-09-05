@@ -12,8 +12,8 @@ public struct AppRatingWidgetPackDescriptor: WidgetPackDescriptor {
     
     public static var packInfo: WidgetPackInfo {
         WidgetPackInfo(
-            name: "Github",
-            description: "Widgets to interface with Github through its API",
+            name: "App Rating",
+            description: "Widgets to display your app's rating on the App Store and Play Store",
             image: Image("ic_widgetPack_appRating", bundle: .module)
         )
     }
