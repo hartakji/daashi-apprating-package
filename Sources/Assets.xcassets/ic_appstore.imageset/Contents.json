@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "386586_appstore_app_store_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
