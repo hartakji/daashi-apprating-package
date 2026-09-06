@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/hartakji/daashi-widget-foundation", from: "1.0.0"),
-        .package(url: "https://github.com/scinfu/SwiftSoup.git", branch: "2.7.5")
+        .package(url: "https://github.com/scinfu/SwiftSoup.git", from: "2.13.9")
     ],
     targets: [
         .target(
